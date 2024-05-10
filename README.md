@@ -7,7 +7,7 @@ Mint Forest Bot is a tool for claiming and injecting energy into MintChain's for
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dante4rt/mint-forest-bot.git
+git clone https://github.com/vantoanpaya/MintBlockchain.git
 ```
 
 2. Install dependencies:
