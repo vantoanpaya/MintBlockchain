@@ -14,7 +14,7 @@ const main = async () => {
       process.stdout.write('\x1Bc');
       console.log(colors.cyan('========================================'));
       console.log(colors.cyan('=    MintChain Claimer and Injector    ='));
-      console.log(colors.cyan('=     Mint Auto      ='));
+      console.log(colors.cyan('=     Chào Các Thành Viên Lớp Cô Giáo Thin      ='));
       console.log(colors.cyan('=         ='));
       console.log(colors.cyan('========================================'));
       console.log();
