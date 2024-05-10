@@ -13,7 +13,7 @@ git clone https://github.com/vantoanpaya/MintBlockchain.git
 2. Install dependencies:
 
 ```bash
-cd mint-forest-bot
+cd Mintblockchain
 npm install
 ```
 
