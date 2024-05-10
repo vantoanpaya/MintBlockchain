@@ -13,7 +13,7 @@ git clone https://github.com/vantoanpaya/MintBlockchain.git
 2. Install dependencies:
 
 ```bash
-cd Mintblockchain
+cd MintBlockchain
 npm install
 ```
 
